@@ -7,11 +7,11 @@
 
 <!-- ── HERO BANNER ─────────────────────────────────────────── -->
 
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:312E81,100:7C3AED&text=VASANTHARAJ%20S&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Building%20AI-First%20Products%20%7C%20Founder%20of%20Neo%20Perion%20Solutions&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
-```
+
 
 
 <!-- ── TYPING ANIMATION ─────────────────────────────────────── -->
