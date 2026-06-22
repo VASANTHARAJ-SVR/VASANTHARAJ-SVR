@@ -7,12 +7,12 @@
 
 <!-- ── HERO BANNER ─────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vasantharaj%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20Neo%20Perion%20Solutions&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Vasantharaj%20S&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20%26%20CEO%2C%20Neo%20Perion%20Solutions&amp;descSize=18&amp;descAlignY=58&amp;descColor=a78bfa&amp;animation=fadeIn" width="100%"/>
 
 <!-- ── TYPING ANIMATION ─────────────────────────────────────── -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=680&lines=Building+AI-First+Products+%F0%9F%9A%80;Turning+Business+Problems+into+Scalable+Tech;Founder+%7C+AI+Builder+%7C+Systems+Thinker;From+Chennai+to+the+Global+Market+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;random=false&amp;width=680&amp;lines=Building+AI-First+Products+%F0%9F%9A%80;Turning+Business+Problems+into+Scalable+Tech;Founder+%7C+AI+Builder+%7C+Systems+Thinker;From+Chennai+to+the+Global+Market+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -102,25 +102,38 @@ We build **end-to-end digital products** — from strategy and architecture thro
 
 ## 🔨 What I Build
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   AI-Powered Products        Industrial Software Systems    │
-│   ─────────────────          ────────────────────────────   │
-│   LLM integrations           Energy management platforms    │
-│   Agentic workflows          Manufacturing intelligence      │
-│   Intelligent search         IoT data pipelines             │
-│   Recommendation engines     Real-time monitoring           │
-│                                                             │
-│   Business Automation        SaaS Applications              │
-│   ──────────────────         ──────────────────             │
-│   Process automation         Multi-tenant platforms         │
-│   Document intelligence      Subscription billing systems   │
-│   Workflow orchestration     Role-based access control      │
-│   Data extraction            Analytics dashboards           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🤖 AI-Powered Products**
+
+LLM integrations · Agentic workflows · Intelligent search · RAG pipelines · AI copilots
+
+</td>
+<td width="25%" align="center">
+
+**🏭 Industrial Software**
+
+Energy management · Manufacturing intelligence · IoT data pipelines · Real-time monitoring · SCADA dashboards
+
+</td>
+<td width="25%" align="center">
+
+**⚡ Business Automation**
+
+Process automation · Document intelligence · Workflow orchestration · Data extraction · Report generation
+
+</td>
+<td width="25%" align="center">
+
+**🌐 SaaS Applications**
+
+Multi-tenant platforms · Subscription systems · Role-based access · Analytics dashboards · Client portals
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -266,35 +279,68 @@ End-to-end client project management, proposal systems, client portals, and inte
 
 ## 📍 Startup Journey
 
-```
-2021 ──────────────────────────────────────────────────────── 2025
-  │                                                              │
-  ●  Started B.Tech in AI & Data Science                         
-  │  Built first ML models. Fell in love with applied AI.       
-  │                                                             
-  ●  First Client Project                                       
-  │  Delivered a real digital solution to a business.           
-  │  Realized I wanted to build companies, not just code.       
-  │                                                             
-  ●  Founded Neo Perion Solutions                               
-  │  Registered the company while still in college.             
-  │  Started with web platforms and digital transformation.     
-  │                                                             
-  ●  Expanded into AI & Industrial Software                     
-  │  Won manufacturing client. Built Energy Management System.  
-  │  Moved upstream into AI product development.                
-  │                                                             
-  ●  Today: Building AI-First Products at Scale                 
-     Leading a growing team. Active client portfolio.           
-     Building products for the next phase of growth.            
-```
+<table>
+<tr>
+<td width="8%" align="center"><strong>2021</strong></td>
+<td width="4%" align="center">🎓</td>
+<td>
 
-**Key milestones:**
-- 🏢 Founded Neo Perion Solutions during college
-- 🏭 Delivered industrial EMS for a manufacturing client
-- 🤖 Launched AI-powered product suite
-- 👥 Built and led a cross-functional technical team
-- 📦 Active portfolio of client projects across industries
+**Started B.Tech in AI & Data Science**
+Built first ML models. Got obsessed with applied AI. Realized the gap between academic theory and real business impact.
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2022</strong></td>
+<td align="center">🤝</td>
+<td>
+
+**Landed the First Real Client**
+Delivered a production digital solution to an actual business. That moment flipped the switch — from engineer to founder mindset.
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2022</strong></td>
+<td align="center">🏢</td>
+<td>
+
+**Founded Neo Perion Solutions**
+Registered the company while still in college. Started with web platforms and digital transformation for SMB clients.
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2023</strong></td>
+<td align="center">🏭</td>
+<td>
+
+**Won First Enterprise Client — Industrial Sector**
+Built and shipped the Energy Management System for a manufacturing client. Moved upstream into complex software engineering.
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>2024</strong></td>
+<td align="center">🤖</td>
+<td>
+
+**Pivoted to AI-First Product Development**
+Launched AI-powered product suite. Started building agentic systems, LLM integrations, and intelligent automation platforms.
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Now</strong></td>
+<td align="center">🚀</td>
+<td>
+
+**Scaling Neo Perion as an AI-First Company**
+Leading a growing team. Active client portfolio. Building the next generation of products — EMS v2, Web Analyser, and AI Automation Systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -374,7 +420,7 @@ I'm open to conversations about:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontSize=16&fontColor=a78bfa&desc=Neo%20Perion%20Solutions%20%E2%80%94%20Built%20in%20Chennai%2C%20Shipped%20to%20the%20World&descSize=14&descAlignY=65&descColor=6b7280" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer&amp;fontSize=16&amp;fontColor=a78bfa&amp;desc=Neo%20Perion%20Solutions%20%E2%80%94%20Built%20in%20Chennai%2C%20Shipped%20to%20the%20World&amp;descSize=14&amp;descAlignY=65&amp;descColor=6b7280" width="100%"/>
 
 **⭐ If my work resonates with you, consider starring a repo — it signals you're paying attention.**
 
