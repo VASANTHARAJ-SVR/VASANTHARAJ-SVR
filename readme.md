@@ -7,7 +7,12 @@
 
 <!-- ── HERO BANNER ─────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Vasantharaj%20S&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20%26%20CEO%2C%20Neo%20Perion%20Solutions&amp;descSize=18&amp;descAlignY=58&amp;descColor=a78bfa&amp;animation=fadeIn" width="100%"/>
+```md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:312E81,100:7C3AED&text=VASANTHARAJ%20S&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Building%20AI-First%20Products%20%7C%20Founder%20of%20Neo%20Perion%20Solutions&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
+```
+
 
 <!-- ── TYPING ANIMATION ─────────────────────────────────────── -->
 
@@ -19,9 +24,9 @@
 
 <!-- ── SOCIAL BADGES ───────────────────────────────────────── -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasantharaj%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasantharajs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasantharaj%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasantharaj-s-920150291)
 [![Website](https://img.shields.io/badge/Neo%20Perion-neoperion.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://neoperion.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasantharaj@neoperion.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasantharaj8133@gmail.com)
 [![Location](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
